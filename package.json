@@ -1,9 +1,6 @@
 {
-  "name": "smartagr-greenhouse",
+  "name": "smartagr",
   "version": "1.0.0",
-  "description": "Smart greenhouse dashboard frontend assets and ESP32 firmware scaffold.",
-  "scripts": {
-    "start": "python server/app.py"
-  },
+  "description": "Project security audit",
   "dependencies": {}
 }
