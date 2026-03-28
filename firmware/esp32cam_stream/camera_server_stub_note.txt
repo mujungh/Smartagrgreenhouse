@@ -1,0 +1,9 @@
+This folder now includes a minimal built-in HTTP stream server.
+
+Available endpoints:
+http://<ESP32-CAM-IP>:81/stream
+http://<ESP32-CAM-IP>:81/jpg
+
+If your ESP32 core version has camera struct field differences,
+compare `esp32cam_stream.ino` with the Arduino `CameraWebServer` example
+for the exact board package version you installed.
